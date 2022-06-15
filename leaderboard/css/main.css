@@ -1,0 +1,208 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+}
+
+.v15_2 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(255, 255, 255, 1);
+    padding: 10px 10px;
+    margin: 10px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v15_3 {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(248, 248, 248, 1), rgba(103, 176, 195, 0.7599999904632568));
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v15_7 {
+    width: 121px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute;
+    top: 65px;
+    left: 829px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_8 {
+    width: 121px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute;
+    top: 65px;
+    left: 981px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_9 {
+    width: 121px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute;
+    top: 65px;
+    left: 1078px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_10 {
+    width: 121px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute;
+    top: 65px;
+    left: 1213px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_11 {
+    width: 121px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute;
+    top: 67px;
+    left: 740px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_13 {
+    width: 470px;
+    height: 286px;
+    background: url("../images/v15_13.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 347px;
+    left: 166px;
+    overflow: hidden;
+}
+
+.v15_14 {
+    width: 267px;
+    color: rgba(0, 0, 0, 1);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_15 {
+    width: 470px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    font-family: Poppins;
+    font-weight: ExtraBold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_16 {
+    width: 455px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 178px;
+    left: 0px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v15_17 {
+    width: 192px;
+    height: 62px;
+    background: rgba(0, 97, 122, 1);
+    opacity: 1;
+    position: absolute;
+    top: 660px;
+    left: 166px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
+}
+
+.v15_18 {
+    width: 192px;
+    height: 62px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 660px;
+    left: 414px;
+    border: 1px solid rgba(0, 97, 122, 1);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v15_19 {
+    width: 100px;
+    /* color: rgba(253, 253, 253, 1);
+    position: absolute; */
+    top: 676px;
+    left: 225px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 20px;
+    /* opacity: 1;
+    text-align: left; */
+}
+
+.v15_20 {
+    /* width: 56px;
+    color: rgba(0, 97, 122, 1);
+    position: absolute; */
+    top: 676px;
+    left: 482px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 20px;
+    /* opacity: 1;
+    text-align: left; */
+}
